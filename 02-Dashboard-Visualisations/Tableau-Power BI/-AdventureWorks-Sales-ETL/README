@@ -1,0 +1,18 @@
+# Corporate Data Warehousing & Sales Intelligence (Power BI)
+
+## 📌 Project Overview
+- **Objective:** To build an enterprise-level data pipeline using Microsoft Power BI Desktop, connecting directly to relational databases and flat files to create clean dimensional semantic star-schemas[cite: 4].
+- **Organization Type:** B2B Wholesale Distributor / Global Retail Group
+- **Business Value:** Mitigates system data anomalies, resolves formatting issues, and provides executives with accurate year-over-year revenue variance metrics to assess sales performance against preset targets[cite: 4].
+
+## 🛠️ Data Engineering & ETL Steps Taken (Power Query)
+1. **Source Connection & Schema Architecture:** Extracted dimensional entities (`DimEmployee`, `DimProduct`, `DimReseller`, `DimSalesTerritory`) and transactional fact records (`FactResellerSales`) from corporate servers[cite: 4].
+2. **Data Profiling & Quality Remediation:** Utilized Power Query column profiles to isolate data quality errors[cite: 4]. Identified and corrected duplicate labeling issues in system strings (e.g., merging mismatched entries for misspelled "Ware House" and "Warehouse" text fields)[cite: 4].
+3. **Advanced Value Transformations:** Restructured external CSV target sheets (`ResellerSalesTargets.csv`) using value multiplication functions, converting localized currency strings into standardized numeric integers scaled by a factor of 1,000[cite: 4].
+4. **Data Type Enforcement:** Configured precise currency values to Fixed Decimal Number types across primary columns (`Unit Price`, `Sales`, `Cost`) to prevent rounding errors during dashboard visual rendering[cite: 4].
+
+## 📈 Analytical Modeling & Visual Calculations
+- **Dimensional Modeling:** Engineered clean data relationships to establish direct table joins across variables[cite: 4].
+- **Advanced Visual Matrix Calculations:** Constructed visual calculations utilizing temporal conditions (`Versus previous`, `Versus first`) to compare active performance results directly against rolling historical baselines[cite: 4].
+- **Time Intelligence Integration:** Applied dynamic running sums resetting across each designated fiscal calendar boundaries to monitor pacing[cite: 4].
+- **Slicer Synchronization:** Implemented coordinated global page filters (Year / Region) across multiple report tabs, preventing cross-report data misalignment for end stakeholders[cite: 4].
