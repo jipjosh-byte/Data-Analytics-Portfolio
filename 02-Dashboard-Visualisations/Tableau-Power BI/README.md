@@ -16,5 +16,3 @@
 - Multidimensional box-and-whisker distribution matrices analyzing variance arrays for Acousticness, Danceability, and Energy attributes[cite: 4].
 - Linear trend-line modeling over scatter plots to formally isolate multi-variable relationships (Duration vs Popularity / Popularity vs Danceability)[cite: 4].
 
-## 🔗 Live Dashboard
-- View the interactive execution directly on Tableau Public: [Live Spotify Interactive Dashboard](https://public.tableau.com/authoring/SpotifyFeatures_17803952811950/DurationPop#1)[cite: 4]
