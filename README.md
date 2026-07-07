@@ -1,6 +1,6 @@
 # Data-Analysis-Portfolio
 
-Hey there, I'm Jipon! Welcome to my data analytics portfolio.
+I'm Jipon! Welcome to my data analytics portfolio.
 
 Below, you'll find a mix of projects I completed during my Data Analyst training bootcamp, alongside some personal side projects I've built to keep sharpening my skills and learning new things.
 
