@@ -34,7 +34,7 @@ Below, you'll find a mix of projects I completed during my Data Analyst training
 
 ![Population City Analysis](pop%20city.png)
 
-### 🐍 [04-Python-Jupyter-Notebooks/Student-Exploratory-Data-Analysis](./04-Python-Jupyter-Notebooks/Student-Exploratory-Data-Analysis) – Student EDA
+### 🐍 [04-Python-Notebooks/Student-Exploratory-Data-Analysis](./04-Python-Jupyter-Notebooks/Student-Exploratory-Data-Analysis) – Student EDA
 *   **What I did:** Programmatically loaded and cleaned student cohort data using Python's data science libraries.
 *   **Key Insight:** Used Pandas and Seaborn to map out heatmaps that quickly identified academic risk zones—including pinpointing a major class failure risk where scores averaged just 18 marks.
 
