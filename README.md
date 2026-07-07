@@ -28,6 +28,9 @@ Below, you'll find a mix of projects I completed during my Data Analyst training
 ### 💻 [03-SQL-Relational-Databases](./03-SQL-Relational-Databases) – Global Demographics Analytics
 *   **What I did:** Wrote SQL queries against a global database to break down metrics like healthcare, regional wealth, and population growth.
 *   **Key Insight:** Used multi-table JOINs, GROUP BY functions, and pagination to filter through massive datasets, successfully isolating data points like ranking the 92 global metropolises that have over 2 million residents.
+*   ![Life Expectancy Analysis](Life%20expect.png)
+
+![Population City Analysis](pop%20city.png)
 
 ### 🐍 [04-Python-Jupyter-Notebooks/Student-Exploratory-Data-Analysis](./04-Python-Jupyter-Notebooks/Student-Exploratory-Data-Analysis) – Student EDA
 *   **What I did:** Programmatically loaded and cleaned student cohort data using Python's data science libraries.
