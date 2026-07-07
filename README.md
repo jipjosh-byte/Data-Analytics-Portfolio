@@ -1,47 +1,41 @@
 # Data-Analysis-Portfolio
 
-## Welcome, my Name is Jipon,
+Hey there, I'm Jipon! Welcome to my data analytics portfolio.
 
-Below, you will find a variety of projects that I have completed as part of my Data Analyst training course, as well as any side projects I have done for my own personal knowledge.
+Below, you'll find a mix of projects I completed during my Data Analyst training bootcamp, alongside some personal side projects I've built to keep sharpening my skills and learning new things.
 
----
+## 🛠️ Tools & Skills I Use
 
-### Topics Covered during my Training:
-
-* **Excel and data basics**: Manipulating, transforming and cleaning datasets in Excel, as well as creating PivotTables and PivotCharts with interactive slicers.
-* **Python via Google Colab**: Using Python code and NumPy to perform logic functions, Pandas for manipulation of dataframes and CSV files, and Matplotlib and Seaborn for Data Visualisation.
-* **SQL / MySQL Workbench**: Creation and management of an SQL Database through Workbench, as well as running queries and transformations of data using SQL code.
-* **Tableau / Power BI dashboards**: Creating Visualisation of queries to answer questions about the data in a concise, easy to understand format.
+*   **Excel & Data Basics:** Cleaning, transforming, and manipulating datasets. I also build interactive dashboards using PivotTables, PivotCharts, and slicers to make data easy to read.
+*   **SQL (MySQL Workbench):** Setting up and managing relational databases, writing queries, joining tables, and transforming raw data into useful insights.
+*   **Python (Google Colab / Jupyter):** Writing clean code using Pandas for data manipulation, NumPy for logical functions, and Matplotlib/Seaborn to create clear data visualizations.
+*   **Dashboards (Tableau & Power BI):** Building clean, interactive visuals that turn complex query results into clear answers for business questions.
 
 ---
 
-### Projects I have completed:
+## 📁 Projects Portfolio
 
-#### 📈 [Excel – Student Performance Analysis](./01-Excel-Data-Projects)
-* **Objective:** Cleaned and analyzed classroom grade data to find top students, track passing rates, and spot who needs extra help[cite: 3].
-* **Key Finding:** Used conditional formatting and automated logic to highlight student averages, showing that Carol was the top performer with an 81.67 average[cite: 3].
+### 📈 [01-Excel-Data-Projects](./01-Excel-Data-Projects) – Student Performance Analysis
+*   **What I did:** Cleaned and analyzed classroom grade data to track student passing rates, highlight top performers, and see who needed extra academic support.
+*   **Key Insight:** Used conditional formatting and automated logic to find class trends, highlighting that Carol was the top student with an 81.67 grade average.
 
-![Excel Table 1](./Excel%20chart.png)
+### 📊 [02-Dashboard-Visualisations](./02-Dashboard-Visualisations) – Spotify Audio Trends
+*   **What I did:** Built a Tableau dashboard analyzing music streaming features to see exactly how different song attributes impact overall popularity.
+*   **Key Insight:** Found a clear positive correlation showing that high-energy, danceable songs drive much better popularity, with track engagement hitting its absolute peak for songs between 3.5 and 4.5 minutes long.
 
----
+### 💻 [03-SQL-Relational-Databases](./03-SQL-Relational-Databases) – Global Demographics Analytics
+*   **What I did:** Wrote SQL queries against a global database to break down metrics like healthcare, regional wealth, and population growth.
+*   **Key Insight:** Used multi-table JOINs, GROUP BY functions, and pagination to filter through massive datasets, successfully isolating data points like ranking the 92 global metropolises that have over 2 million residents.
 
-#### 📊 [Tableau – Spotify Audio Trends](./02-Dashboard-Visualisations)
-* **Objective:** Analyzed music streaming features to see how track attributes drive total streaming popularity[cite: 4].
-* **Key Finding:** Isolated a clear positive correlation showing that more danceable songs drive higher popularity, and track engagement peaks strictly between 3.5 and 4.5 minutes[cite: 4].
-
----
-
-#### 💻 [SQL – Global Demographics Analytics](./03-SQL-Relational-Databases)
-* **Objective:** Wrote analytical scripts against global databases to track healthcare, population growth, and regional wealth[cite: 5].
-* **Key Finding:** Used multi-table join operations, groupings, and data paging to isolate specific high-value targets, such as ranking the 92 global metropolises exceeding 2 million residents[cite: 5].
+### 🐍 [04-Python-Jupyter-Notebooks/Student-Exploratory-Data-Analysis](./04-Python-Jupyter-Notebooks/Student-Exploratory-Data-Analysis) – Student EDA
+*   **What I did:** Programmatically loaded and cleaned student cohort data using Python's data science libraries.
+*   **Key Insight:** Used Pandas and Seaborn to map out heatmaps that quickly identified academic risk zones—including pinpointing a major class failure risk where scores averaged just 18 marks.
 
 ---
 
-#### 🐍 [Python – Student Exploratory Data Analysis](./04-Python-Jupyter-Notebooks)
-* **Objective:** Programmatically loaded and manipulated cohort files using the Python scientific computing stack[cite: 1, 6].
-* **Key Finding:** Used Pandas and Seaborn to build heatmaps that instantly pinpointed performance risks—such as identifying an unacceptable class failure risk averaging just 18 marks[cite: 6].
+## 📬 Let's Connect!
 
----
-### 📬 Contact & Professional Networks
-* **LinkedIn:** https://www.linkedin.com/in/jipon-ladep-b89905244/
-* **Email:** Doe51640@gmail.com
+If you want to chat about data, look over my work, or discuss opportunities, feel free to reach out:
+
+*   **LinkedIn:** [linkedin.com/in/jipon-ladep](https://www.linkedin.com/in/jipon-ladep-b89905244/)
+*   **Email:** [Doe51640@gmail.com](mailto:Doe51640@gmail.com)
