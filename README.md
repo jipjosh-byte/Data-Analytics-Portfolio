@@ -36,6 +36,8 @@ Below, you'll find a mix of projects I completed during my Data Analyst training
 *   **What I did:** Programmatically loaded and cleaned student cohort data using Python's data science libraries.
 *   **Key Insight:** Used Pandas and Seaborn to map out heatmaps that quickly identified academic risk zones—including pinpointing a major class failure risk where scores averaged just 18 marks.
 
+*   [View the Python Notebook Here](the_worldu.ipynb)
+
 ---
 
 ## 📬 Let's Connect!
