@@ -44,7 +44,8 @@ Below, you'll find a mix of projects I completed during my Data Analyst training
 
 ## 📬 Let's Connect!
 
-If you want to chat about data, look over my work, or discuss opportunities, feel free to reach out:
+If you want to see more about my experience and message, look over my work, or discuss opportunities, feel free to reach out:
 
 *   **LinkedIn:** [linkedin.com/in/jipon-ladep](https://www.linkedin.com/in/jipon-ladep-b89905244/)
 *   **Email:** [Doe51640@gmail.com](mailto:Doe51640@gmail.com)
+*   Tableau public :https://public.tableau.com/app/profile/jipon.ladep/vizzes
