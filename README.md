@@ -8,7 +8,7 @@ Below, you'll find a mix of projects I completed during my Data Analyst training
 
 *   **Excel & Data Basics:** Cleaning, transforming, and manipulating datasets. I also build interactive dashboards using PivotTables, PivotCharts, and slicers to make data easy to read.
 *   **SQL (MySQL Workbench):** Setting up and managing relational databases, writing queries, joining tables, and transforming raw data into useful insights.
-*   **Python (Google Colab / Jupyter):** Writing clean code using Pandas for data manipulation, NumPy for logical functions, and Matplotlib/Seaborn to create clear data visualizations.
+*   **Python (Google Colab /):** Writing clean code using Pandas for data manipulation, NumPy for logical functions, and Matplotlib/Seaborn to create clear data visualizations.
 *   **Dashboards (Tableau & Power BI):** Building clean, interactive visuals that turn complex query results into clear answers for business questions.
 
 ---
