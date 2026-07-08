@@ -1,41 +1,45 @@
-📈 Student Performance Analysis (Excel)
+📈 **Student Performance Analysis (Excel)**
 🌟 Why This Project Shows I'm a Great Hire
+
 "Instead of just looking at raw numbers, I turned a messy spreadsheet into a clean, automated tracker. This project proves I can clean data quickly, write smart formulas, and create simple visual alerts that help managers make fast decisions without wasting time."
 
-📌 Project Quick Summary
-The Goal: Take a messy list of classroom grades, clean it up, and instantly find the top students, overall passing rates, and who is falling behind.
+📌 **Project Quick Summary**
 
-Where this is used: Schools, academies, or educational boards.
+The Goal: Clean a messy list of classroom grades to instantly find top students, passing rates, and at-risk learners.
 
-The Business Value: It lets managers and teachers instantly spot struggling students early, reward top performers, and see if lessons are actually working.
+The Business Value: Helps management spot struggling students early, reward top performers, and measure lesson effectiveness.
 
-🛠️ Excel Tools I Used
-Excel Tables (Ctrl + T): To turn raw text into a clean, organized, and easily searchable dataset.
+The Dataset: Student test scores in English, Maths, and Science (via LeapTalent Data Bootcamp).
 
-Formulas (AVERAGE, MAX): To calculate student grade averages and automatically find the highest scores.
+🛠️**Excel Tools Used**
 
-Logical Functions (IF): To automatically tag students as "Pass" or "Fail" without doing it manually.
+Excel Tables: Organized raw data into a structured, searchable dataset.
 
-Conditional Formatting: To build color-coded alerts that highlight the highest and lowest scores automatically.
+Formulas (AVERAGE, MAX): Automated individual grade averages and top-score tracking.
 
-🚀 How I Did It (My Process)
-Data Cleanup: Formatted the raw, messy grade data into a properly structured Excel table (Student_grades_table).
+Logical Functions (IF): Automated "Pass/Fail" tagging to eliminate manual work.
 
-Calculations: Wrote formulas to find individual student averages and the top scores for each subject.
+Conditional Formatting: Built color-coded alerts to highlight performance spikes and drops.
 
-Automation: Created a column that automatically labels scores as "Excellent", "Good", or "Average" based on their grades.
+🚀 **My Process** 
 
-Visual Rules: Built color alerts to instantly draw a manager's eye straight to any failing scores.
+Data Cleanup: Converted raw text into a structured table (Student_grades_table).
 
-📊 Dataset Used
-Source: LeapTalent Data Bootcamp
+Calculations: Wrote formulas to extract student averages and subject-specific peak scores.
 
-What it is: Test scores for a class of students across English, Mathematics, and Science.
+Automation: Added logic to automatically categorize grades ("Excellent", "Good", "Average").
 
-💡 Key Findings & Real Insights
-Top Performer (Carol): Carol is the top student with an 81.67 average, showing great consistency by scoring an 85 in both Science and Maths.
+Visual Rules: Applied color alerts to instantly draw a manager's eye to failing marks.
 
-What this means for a manager: Finding your top performers helps you understand what successful habits look like so you can replicate them.
+💡 **Key Insights**
+
+Top Performer (Carol): Led the class with an 81.67 average (scoring 85 in both Science and Maths).
+
+Manager Value: Replicate her study habits across the cohort.
+
+At-Risk Student (Thomas): Holds a failing average of 50, driven by a score of 30 in Mathematics.
+
+Manager Value: Signals exactly who needs immediate tutoring intervention before exams.
 
 At-Risk Student (Thomas): Thomas has a failing average of 50, caused by a very low score of 30 in Mathematics.
 
