@@ -48,4 +48,4 @@ If you want to see more about my experience and message, look over my work, or d
 
 *   **LinkedIn:** [linkedin.com/in/jipon-ladep](https://www.linkedin.com/in/jipon-ladep-b89905244/)
 *   **Email:** [Doe51640@gmail.com](mailto:Doe51640@gmail.com)
-*   Tableau public :https://public.tableau.com/app/profile/jipon.ladep/vizzes
+*  🎨 **Tableau Public Profile:** [Explore My Live Data Visualizations](https://public.tableau.com/app/profile/jipon.ladep/vizzes)
