@@ -21,7 +21,6 @@ Below, you'll find a mix of projects I completed during my Data Analyst training
 *   
 *   ![Excel Performance Chart](Excel%20chart.png)
 
-*   
 *   ![Student Data Table](Student%20table%20png%20%281%29.png)
 
 ### 📊 [02-Dashboard-Visualisations](./02-Dashboard-Visualisations) – Spotify Audio Trends
